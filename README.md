@@ -1,16 +1,18 @@
 # ShogScript
-A concise, domain-specific language for efficient interaction with GPT-4-based AI models, enhancing communication and user experience.
+A concise, domain-specific language for efficient interaction with GPT-4-based AI models, enhancing communication and user experience. 
 
 ## Context
 
-ShogScript was created in collaboration with GPT-4 by a TESOL/IELTS teacher in an attempt to organize various iterations of (aspirational) prompt engineering. The primary goal is to develop ShogScript into a versatile shorthand for various purposes, such as:
+ShogScript was created in collaboration with GPT-4, by a TESOL/IELTS teacher in an attempt to organize various iterations of (aspirational) prompt engineering. The primary goal is to develop ShogScript into a versatile shorthand for various purposes, such as:
 
 1. The easy organization and deployment of tight, organized heuristics, making it easier for users to deftly prompt GPT-4 and obtain desired outputs.
-2. Personal record-keeping, specifically the storing of half-shogtongue prompts with pertinent information needed to re-continue threads/frameworks with fresh GPT-4 sessions.
+2. Personal record-keeping, specifically the storing of (half-)shogtongue prompts with pertinent information needed to re-continue threads/frameworks with fresh GPT-4 sessions.
 3. Streamlining communication in different professional domains, such as education, research, business, and more.
 4. Ensuring efficient use of input/output tokens, allowing users to stay within the token limits of GPT-4-based AI models.
 
 ShogScript aims to cater to a wide range of users, from those with no programming experience to seasoned developers, offering an accessible and efficient way to interact with GPT-4-based AI models and manage AI interactions. Below you will find details on using ShogScript to create stories, compose articles, retrieve information, generate personalized content, and conduct comparative analysis.
+
+Credit to Twitter user @gfodor for the concept and word, "shogtongue."
 
 ## ShogScript Overview
 
@@ -129,7 +131,7 @@ We welcome contributions to the ShogScript project! Please feel free to submit p
 This project is licensed under the MIT License. See [LICENSE](./LICENSE) for more details.
 
 ## TL;DR (Add this to your prompts for better writing)
-If nothing else, please enjoy our little ShogScript IELTS heuristic:
+If nothing else, please enjoy our little ShogScript IELTS heuristics:
 
 ```develop+extend+support(ideas), vocab(wide+natural+sophisticated), grammar(wide+flexible), cohesion(logical+smooth), clarity(precise+concise), engagement(attention+interest), mood(objective+explanatory), viewpoint(forward_looking))```
 
