@@ -60,7 +60,7 @@ This prompt sets the stage for the creative and hypothetical mindset required to
 #### Example 3: Alien Encounter Story
 ```ShogScript_prompt(task(gen_story), subject(alien_encounter), duration(brief), mood(mystical+introspective), setting(outer_space+alien_world), characters(main_character:astronaut, secondary_character:alien_species), plot(first_contact+mutual_understanding), theme(communication+compassion), writing_style(lyrical+imaginative), engagement(wonder+reflection), initiate)```
 
-### Intricate Prompts: Objective-Ish Articles Etc.
+### Intricate Prompts: Objective-Ish Articles etc.
 
 #### Example 1: Technological Advancements
 ```ShogScript_prompt(produce_text, subject(technological_advancements), size(compact+in-depth), emphasis(effect+community), viewpoint(forward_looking), mood(objective+explanatory), structure(logical+coherent), clarity(precise+concise), engagement(attention+interest), initiate)```
