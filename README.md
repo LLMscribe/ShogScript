@@ -13,8 +13,6 @@ ShogScript aims to cater to a wide range of users, from those with no programmin
 
 ## ShogScript Overview
 
-ShogScript is a concise, domain-specific language (DSL) designed to enhance communication and user experience when interacting with GPT-4-based AI models. The language focuses on offering a structured, flexible, and engaging way of crafting queries and managing AI interactions, making it easier for users to obtain desired outputs.
-
 The ShogScript language is composed of the following structure elements:
 
 - **keyphrases**: Concise keywords and phrases to represent concepts, actions, or ideas.
@@ -76,19 +74,19 @@ These examples demonstrate comprehensive and detailed ShogScript prompts, showca
 ### Simpler Prompts
 
 #### Example 1: Weather Query
-```example(query(weather, location, temp, precip))```
+```ShogScript_prompt(query(weather, location, temp, precip))```
 
 This example demonstrates a simple ShogScript query for weather information, including temperature and precipitation for a specified location.
 
 #### Example 2: News Query with Filters
 
-```example(query(news, topic, date_range, filter(language, English)))```
+```ShogScript_prompt(query(news, topic, date_range, filter(language, English)))```
 
 This example shows a ShogScript query for news articles on a specific topic within a date range, filtered by language.
 
 #### Example 3: Movie Recommendations with Preferences
 
-```example(query(movie_recommendations, genre, year, preference(actor, director)))```
+```ShogScript_prompt(query(movie_recommendations, genre, year, preference(actor, director)))```
 
 This example illustrates a ShogScript query for movie recommendations within a certain genre and year, taking into account user preferences for actors and directors.
 
