@@ -52,43 +52,43 @@ This prompt sets the stage for the creative and hypothetical mindset required to
 ### Intricate Prompts: Story Generation
 
 #### Example 1: Futuristic Cityscape Story
-ShogScript_prompt(task(gen_story), subject(futuristic_cityscape), duration(moderate), mood(mysterious+adventurous), setting(urban+high-tech), characters(main_character:private_investigator, secondary_character:AI_assistant), plot(twists+reveals), theme(humanity+technology), writing_style(descriptive+suspenseful), engagement(immersion+surprise), initiate)
+```ShogScript_prompt(task(gen_story), subject(futuristic_cityscape), duration(moderate), mood(mysterious+adventurous), setting(urban+high-tech), characters(main_character:private_investigator, secondary_character:AI_assistant), plot(twists+reveals), theme(humanity+technology), writing_style(descriptive+suspenseful), engagement(immersion+surprise), initiate)```
 
 #### Example 2: Time Travel Adventure Story
-ShogScript_prompt(task(gen_story), subject(time_travel_adventure), duration(extended), mood(action-packed+thought-provoking), setting(past+future), characters(main_character:scientist, secondary_character:historical_figure), plot(interwoven+nonlinear), theme(consequences+choices), writing_style(crisp+cinematic), engagement(curiosity+excitement), initiate)
+```ShogScript_prompt(task(gen_story), subject(time_travel_adventure), duration(extended), mood(action-packed+thought-provoking), setting(past+future), characters(main_character:scientist, secondary_character:historical_figure), plot(interwoven+nonlinear), theme(consequences+choices), writing_style(crisp+cinematic), engagement(curiosity+excitement), initiate)```
 
 #### Example 3: Alien Encounter Story
-ShogScript_prompt(task(gen_story), subject(alien_encounter), duration(brief), mood(mystical+introspective), setting(outer_space+alien_world), characters(main_character:astronaut, secondary_character:alien_species), plot(first_contact+mutual_understanding), theme(communication+compassion), writing_style(lyrical+imaginative), engagement(wonder+reflection), initiate)
+```ShogScript_prompt(task(gen_story), subject(alien_encounter), duration(brief), mood(mystical+introspective), setting(outer_space+alien_world), characters(main_character:astronaut, secondary_character:alien_species), plot(first_contact+mutual_understanding), theme(communication+compassion), writing_style(lyrical+imaginative), engagement(wonder+reflection), initiate)```
 
 ### Intricate Prompts: Objective-Ish Articles Etc.
 
 #### Example 1: Technological Advancements
-ShogScript_prompt(produce_text, subject(technological_advancements), size(compact+in-depth), emphasis(effect+community), viewpoint(forward_looking), mood(objective+explanatory), structure(logical+coherent), clarity(precise+concise), engagement(attention+interest), initiate)
+```ShogScript_prompt(produce_text, subject(technological_advancements), size(compact+in-depth), emphasis(effect+community), viewpoint(forward_looking), mood(objective+explanatory), structure(logical+coherent), clarity(precise+concise), engagement(attention+interest), initiate)```
 
 #### Example 2: Health and Wellness Advice
-ShogScript_prompt(produce_text, subject(health_wellness_advice), size(brief+informative), emphasis(nutrition+exercise), target_audience(adults_30-50), mood(encouraging+informative), format(listicle), style(conversational+expert), engagement(motivation+education), initiate)
+```ShogScript_prompt(produce_text, subject(health_wellness_advice), size(brief+informative), emphasis(nutrition+exercise), target_audience(adults_30-50), mood(encouraging+informative), format(listicle), style(conversational+expert), engagement(motivation+education), initiate)```
 
 #### Example 3: Comparative Analysis of Historical Figures
-ShogScript_prompt(produce_text, subject(comparative_analysis), context(historical_figures), figures(Gandhi,Mandela), focus(leadership+impact), perspective(cultural+political), mood(analytical+respectful), structure(introduction+comparison+conclusion), depth(surface_level+nuanced), engagement(insight+intrigue), initiate)
+```ShogScript_prompt(produce_text, subject(comparative_analysis), context(historical_figures), figures(Gandhi,Mandela), focus(leadership+impact), perspective(cultural+political), mood(analytical+respectful), structure(introduction+comparison+conclusion), depth(surface_level+nuanced), engagement(insight+intrigue), initiate)```
 
 These examples demonstrate comprehensive and detailed ShogScript prompts, showcasing the capabilities of the language. By using this prompt, users can effectively communicate their requirements to GPT-4, making it easier to obtain desired outputs.
 
 ### Simpler Prompts
 
-### Example 1: Weather Query
-example(query(weather, location, temp, precip))
+#### Example 1: Weather Query
+```example(query(weather, location, temp, precip))```
 
 This example demonstrates a simple ShogScript query for weather information, including temperature and precipitation for a specified location.
 
-### Example 2: News Query with Filters
+#### Example 2: News Query with Filters
 
-example(query(news, topic, date_range, filter(language, English)))
+```example(query(news, topic, date_range, filter(language, English)))```
 
 This example shows a ShogScript query for news articles on a specific topic within a date range, filtered by language.
 
-### Example 3: Movie Recommendations with Preferences
+#### Example 3: Movie Recommendations with Preferences
 
-example(query(movie_recommendations, genre, year, preference(actor, director)))
+```example(query(movie_recommendations, genre, year, preference(actor, director)))```
 
 ## Roadmap
 
@@ -98,7 +98,7 @@ Our roadmap for ShogScript includes the following milestones:
 2. Create a comprehensive set of tutorials and guides to help users adopt and utilize ShogScript effectively.
 3. Empower users to create their own domain-specific ShogScripts, further enhancing customization and user experience.
 4. Continuously refine and expand the language based on user feedback and evolving AI capabilities.
-5. Explore integrations with other AI platforms, chatbots, and NLP tools.
+5. Explore ShogScript workshops for everyday users and integrations with other AI platforms, chatbots, and NLP tools.
 
 ## Contributing
 
