@@ -96,14 +96,17 @@ This example illustrates a ShogScript query for movie recommendations within a c
 
 #### Example 1: Personalized Movie Recommendations with Filters and Preferences
 ```ShogScript_prompt(query(movie_recommendations), genre(user_genre), year(user_year), filter(rating>8, language(user_language)), preference(actor(user_actor), director(user_director)), <if user_decade=2010s>(year(2010:2019)), <if user_decade=2000s>(year(2000:2009)), initiate)```
+
 This example illustrates a ShogScript query for personalized movie recommendations, taking into account user preferences and using if statements to further filter the results based on a specified decade.
 
 #### Example 2: Iterative Text Generation for Multiple Topics
 ```ShogScript_prompt(generate_text, topics_list(technology, environment, health, politics, sports), {5}(topic(topic_iteration), emphasis(impact+society), viewpoint(forward_looking), mood(informative+neutral), initiate, move_to_next_topic), initiate)```
+
 In this example, ShogScript generates text for multiple topics using loops and iterators. It iterates through a list of topics and generates a text segment for each topic, while maintaining the same focus, viewpoint, and mood.
 
 #### Example 3: Comparative Analysis with Conditions and Complex Logic
 ```ShogScript_prompt(produce_text, subject(comparative_analysis), context(historical_figures), figures(Gandhi,Mandela), focus(leadership+impact), perspective(cultural+political), mood(analytical+respectful), <if figures_include(Gandhi+Mandela)>(emphasis(nonviolence+reconciliation)), <if figures_include(Einstein+Newton)>(emphasis(scientific_contributions+legacy)), <if figures_include(Shakespeare+Tolstoy)>(emphasis(literary_genius+influence)), structure(introduction+comparison+conclusion), depth(surface_level+nuanced), engagement(insight+intrigue), initiate)```
+
 This example showcases a ShogScript prompt for a comparative analysis of historical figures with complex logic using if statements. Depending on the figures included, it automatically adjusts the emphasis of the analysis.
 
 These examples demonstrate how ShogScript can use complex operators, loops, and if statements to create intricate and tailored prompts for various tasks.
