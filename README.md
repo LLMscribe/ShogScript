@@ -6,7 +6,7 @@ A concise, domain-specific language for efficient interaction with GPT-4-based A
 ShogScript was created in collaboration with GPT-4 by a TESOL/IELTS teacher, not a programmer. While the language has its roots in educational settings, its applications are vast and diverse. The primary goal is to develop ShogScript into a versatile personal shorthand for various purposes, such as:
 
 1. Prompting GPT-4 with tight and organized heuristics, making it easier for users to obtain desired outputs.
-2. Personal record-keeping, specifically storing prompts with pertinent information needed to re-continue a thread with a fresh GPT-4 session.
+2. Personal record-keeping, specifically storing prompts with pertinent information needed to re-continue threads/frameworks with fresh GPT-4 sessions.
 3. Streamlining communication in different professional domains, such as education, research, business, and more.
 
 ShogScript aims to cater to a wide range of users, from those with no programming experience to seasoned developers, offering an accessible and efficient way to interact with GPT-4-based AI models and manage AI interactions.
