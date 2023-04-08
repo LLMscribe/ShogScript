@@ -90,6 +90,8 @@ This example shows a ShogScript query for news articles on a specific topic with
 
 ```example(query(movie_recommendations, genre, year, preference(actor, director)))```
 
+This example illustrates a ShogScript query for movie recommendations within a certain genre and year, taking into account user preferences for actors and directors.
+
 ## Roadmap
 
 Our roadmap for ShogScript includes the following milestones:
