@@ -52,6 +52,8 @@ This prompt sets the stage for the creative and hypothetical mindset required to
 
 ### Detailed Prompts: Story Generation
 
+*Note that these should be placed immediately after the starter prompt in your very first message.*
+
 #### Example 1: Futuristic Cityscape Story
 ```task(gen_story), subject(futuristic_cityscape), duration(moderate), mood(mysterious+adventurous), setting(urban+high-tech), characters(main_character:private_investigator, secondary_character:AI_assistant), plot(twists+reveals), theme(humanity+technology), writing_style(descriptive+suspenseful), engagement(immersion+surprise), initiate```
 
