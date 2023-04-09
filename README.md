@@ -3,7 +3,7 @@ A concise, domain-specific language for efficient interaction with GPT-4-based A
 
 ## Context
 
-ShogScript was developed by GPT-4 in collaboration with an IELTS exam teacher, with the aim of organizing various iterations of aspirational prompt engineering. The primary goal is to evolve ShogScript into a versatile shorthand suitable for a range of purposes, such as:
+ShogScript was developed by GPT-4 in collaboration with an IELTS exam prep teacher, with the aim of organizing various iterations of aspirational prompt engineering. The primary goal is to evolve ShogScript into a versatile shorthand suitable for a range of purposes, such as:
 
 1. The easy organization and deployment of tight, organized heuristics, making it easier for users to deftly prompt GPT-4 and obtain desired outputs.
 2. Personal record-keeping, specifically the storing of compressed prompts with pertinent information needed to re-continue threads/frameworks with fresh GPT-4 sessions.
