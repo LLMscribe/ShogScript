@@ -40,7 +40,7 @@ These elements make up the structure of the ShogScript language and provide a wa
 
 ## Starter Prompts
 
-Note: Sometimes you can get away without a starter prompt, especially with smaller snippets. But, if you want a better chance of your ShogScript prompt working on a fresh GPT-4 session, and certainly if you want your machine to then *generate* ShogScript without protesting, you'll need to initiate ShogScript to get it into the right speculative mindset. You can use something like one of the following starter prompts:
+_Sometimes you can get away without a starter prompt, especially with smaller snippets. But, if you want a better chance of your ShogScript prompt working on a fresh GPT-4 session, and certainly if you want your machine to then *generate* ShogScript without protesting, you'll need to initiate ShogScript to get it into the right speculative mindset. You can use something like one of the following starter prompts:_
 
 ### Starter Prompt #1 (for Story Gen)
 ```activate_creative_hypothetical_ShogScript(def(lang(concise_domain_specific_efficient), aim(detailed_instructions+structure), example(query(weather,location,temp,precip,forecast(time=day+night+week)), note(ShogScript_status, creative_exercise, shogtongue, unleash_imagination),  task(gen_story,subject1+subject2+OR+subject3,duration(brief+moderate+extended)), syntax_rules)), GPT4, new_session, produce_ShogScript, initiate, structure(keyphrases, hierarchy, delimiters, adjusters, embedding, optionals, anychars, iterators, if_statements, logic_operators, vars, funcs, cycles, escape_chars, notes), enhance+expand+back(ideas), lexicon(broad+natural+refined), syntax(ample+adaptable), cohesion(logical+smooth), clarity(precise+concise), engagement(attention+interest))```
