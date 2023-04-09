@@ -1,0 +1,55 @@
+[activate_creative_hypothetical_ShogScript]
+{
+    set_context(GPT4, session_goal: "generate_recursive_story", output_format: "ready_to_publish_prose")
+
+    note(ShogScript_status, creative_exercise, unleash_imagination)
+    structure(keyphrases, hierarchy, delimiters, adjusters, embedding, optionals, anychars, iterators, if_statements, logic_operators, vars, funcs, cycles, escape_chars, notes)
+    enhance+expand+back(ideas), lexicon(broad+natural+refined), syntax(ample+adaptable), cohesion(logical+smooth), clarity(precise+concise), engagement(attention+interest)
+
+    shog_begin
+    {
+    shog_initiate
+
+    # World-building functions
+    gen_flora(): call_gpt_4("generate_flora(gen_recursive_details) alien_world")
+    gen_fauna(): call_gpt_4("generate_fauna(gen_recursive_details) alien_world")
+    gen_climate(): call_gpt_4("generate_climate(gen_recursive_details) alien_world")
+    gen_geography(): call_gpt_4("generate_geography(gen_recursive_details) alien_world")
+    gen_history(): call_gpt_4("generate_history(gen_recursive_details) alien_world")
+    gen_culture(): call_gpt_4("generate_culture(gen_recursive_details) alien_world")
+
+    # Character generation
+    character(Eris, {
+      name: "Eris",
+      role: "adventurous human explorer",
+      traits: call_gpt_4("generate_character_traits(gen_recursive_details) Eris"),
+      appearance: call_gpt_4("generate_character_appearance(gen_recursive_details) Eris"),
+      backstory: call_gpt_4("generate_character_backstory(gen_recursive_details) Eris"),
+      abilities: call_gpt_4("generate_character_abilities(gen_recursive_details) Eris")
+    })
+
+    character(alien_species, {
+      species: call_gpt_4("generate_alien_species_name(gen_recursive_details) alien_species"),
+      traits: call_gpt_4("generate_alien_species_traits(gen_recursive_details) alien_species"),
+      appearance: call_gpt_4("generate_alien_species_appearance(gen_recursive_details) alien_species"),
+      society: call_gpt_4("generate_alien_society(gen_recursive_details) alien_species"),
+      technology: call_gpt_4("generate_alien_technology(gen_recursive_details) alien_species")
+    })
+
+    # Recursive world-building
+    shog_build_world()
+
+    # Choose a story path
+    path_choice: call_gpt_4("choose_branch avoid_cliches:true", [["path1", "path2"]])
+
+    # Go through the decisions and generations verbose in ShogScript
+    shog_generate_decisions()
+
+    # Explicitly instruct GPT-4 to craft the story into a ready-to-publish text
+    shog_craft_story("ready_to_publish")
+
+    # Produce the final story
+    shog_produce_story(Eris, alien_species, path_choice)
+  }
+}
+initiate
