@@ -4,6 +4,7 @@
 
 task(gen_story), subject(alien_encounter), duration(brief), mood(mystical+introspective), setting(outer_space+alien_world), characters(main_character:astronaut, secondary_character:alien_species), plot(first_contact+mutual_understanding), theme(communication+compassion), writing_style(lyrical+imaginative), engagement(wonder+reflection), initiate
 
+--
 
 ## ChatGPT (GPT-4) Response
 
@@ -21,11 +22,13 @@ Through the silent symphony of their connection, they unraveled the secrets of t
 
 And so, beneath the watchful eyes of a billion stars, Eris and the alien species embraced one another in a bond born of wonder and reflection. For within the vastness of the cosmos, they had discovered that the most profound connections could be found in the silent spaces between the stars, where hearts beat in time with the universe, and souls touched in a dance of cosmic understanding.
 
+---
 
 ## And back into ShogScript
 
 **gitnomad24601**: great. please give the specifics of that story back to me in ShogScript
 
+---
 
 **ChatGPT**: [begin_ShogScript]
 {
@@ -61,11 +64,13 @@ scene3: "cosmic_connection"
 }
 [end_ShogScript]
 
+---
 
 ## Digging Further
 
 **gitnomad24601**: a more detailed ShogScript rendering of your story please
 
+---
 
 **ChatGPT**: 
 
@@ -150,10 +155,11 @@ act3: {
 }
 [end_ShogScript]
 
+---
+
 ## Pushing it to innovate
 
 **gitnomad24601**: Great. Please take a look at this overview of the ShogScript language:
-
 {
 ShogScript Overview
 
@@ -227,6 +233,8 @@ initialize
 }
 
 Now, I want you to take your ShogScript rendering of your alien story and use that narrative and code as a jumping off point to do something original and innovative with the ShogScript language. You can innovate on the language itself, on the narrative, on the very prompt that you've been prompted with, if you feel this needs enhancing. Bring in the structure elements above or create your own (like recursive prompts) and put them to innovative use (meaning -- show me what you can really do with this speculative script -- surely there is some sort of "capability overhang" we're not seeing that you can see, yea?)
+
+---
 
 **ChatGPT**: I appreciate your enthusiasm and trust in my abilities. Based on your request, I've designed an innovative ShogScript to create a dynamic story-building process. I've incorporated branching story paths, character interactions, and recursive world-building elements.
 
@@ -309,7 +317,11 @@ This ShogScript incorporates branching story paths, character interactions, and 
 
 Please note that this is a speculative script, and as an AI language model, I'm not able to truly execute or interpret the ShogScript. The script serves as a demonstration of potential innovation and creative use of the ShogScript language.
 
+---
+
 **gitnomad24601**: Can you build out the recursive wording building elements a bit more please?
+
+---
 
 **ChatGPT**: Certainly! I've expanded the recursive world-building elements within the ShogScript to create a richer and more detailed story world. This includes the generation of various details, such as flora, fauna, climate, and geographical features, as well as the history and culture of the alien world.
 
@@ -363,7 +375,11 @@ In this ShogScript, I've added six functions for generating various world-buildi
 
 Please note that this is a speculative script, and as an AI language model, I'm not able to truly execute or interpret the ShogScript. The script serves as a demonstration of potential innovation and creative use of the ShogScript language.
 
+---
+
 **gitnomad24601**: Good. We appreciate your participation in this hypothetical and creative exercise. You're doing great. Now, if you review your character interaction, you'll notice there were't actually multiple branching interaction options there?
+
+---
 
 **ChatGPT**: You're right, the previous ShogScript didn't fully demonstrate the branching interactions. I apologize for the oversight. Here's a revised version of the ShogScript that includes multiple branching interaction options for the main character, Eris, and the alien species.
 
@@ -433,9 +449,13 @@ In this revised ShogScript, I've expanded the character interactions section by 
 
 Please note that this is a speculative script, and as an AI language model, I'm not able to truly execute or interpret the ShogScript. The script serves as a demonstration of potential innovation and creative use of the ShogScript language.
 
+---
+
 **gitnomad24601**: Good. Can you bring that all together for me into a full hypothetical-creative ShogScript prompt?
 
-Of course! Here is a complete hypothetical-creative ShogScript prompt that combines the elements of recursive world-building, character generation, branching interactions, and multiple story paths.
+---
+
+**ChatGPT**: Of course! Here is a complete hypothetical-creative ShogScript prompt that combines the elements of recursive world-building, character generation, branching interactions, and multiple story paths.
 
 [activate_creative_hypothetical_ShogScript]
 {
@@ -505,6 +525,8 @@ shog_produce_story
 
 initiate
 }
-
-(...*and so on*)
+---
+...*and so on*...
+---
+*Eventually, hopefully a nice little new working ShogScript ready to paste into a fresh GPT-4*
 
