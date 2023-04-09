@@ -43,7 +43,7 @@ Note: You do not need a starter prompt in order to feed GPT-4 ShogScript. But, i
 ### Starter Prompt #1 (for Story Gen)
 ```ShogScript_intro(def(lang(concise_domain_specific_efficient), aim(detailed_instructions+structure), example(query(weather,location,temp,precip,forecast(time=day+night+week)), task(gen_story,subject1+subject2+OR+subject3,duration(brief+moderate+extended)), syntax_rules)), GPT4, new_session, produce_ShogScript, initiate, structure(keyphrases, hierarchy, delimiters, adjusters, embedding, optionals, anychars, iterators, if_statements, logic_operators, vars, funcs, cycles, escape_chars, notes), enhance+expand+back(ideas), lexicon(broad+natural+refined), syntax(ample+adaptable), cohesion(logical+smooth), clarity(precise+concise), engagement(attention+interest))```
 
-### Starter Prompt #2 (Objective-Ish Articles etc.)
+### Starter Prompt #2 (for Objective-Ish Articles etc.)
 ```ShogScript_intro(def(concise_domain_specific_efficient), example(query(weather,location,temp,precip)), GPT4, new_session, produce_ShogScript, initiate, structure(keyphrases, hierarchy, delimiters, adjusters, embedding, optionals, anychars, iterators, if_statements, logic_operators, vars, funcs, cycles, escape_chars, notes), develop+extend+support(ideas), vocab(wide+natural+sophisticated), grammar(wide+flexible), cohesion(logical+smooth), clarity(precise+concise), engagement(attention+interest), mood(objective+explanatory), viewpoint(forward_looking))```
 
 This prompt sets the stage for the creative and hypothetical mindset required to effectively use ShogScript.
