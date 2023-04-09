@@ -78,6 +78,8 @@ These examples demonstrate comprehensive and detailed ShogScript prompts, showca
 
 ### Simpler Prompts
 
+ChatGPT's model is of course cut off from the accessing up-to-date info on the web, but you can feed these into Bing Chat no problem.
+
 #### Example 1: Weather Query
 ```query(weather, location, temp, precip)```
 
