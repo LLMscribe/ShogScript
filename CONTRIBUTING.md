@@ -1,6 +1,6 @@
 # Contributing to ShogScript
 
-First of all, thank you for your interest in contributing to the ShogScript project! We appreciate your time and effort in helping improve the language and the community. This document outlines the process for contributing to the project and provides guidelines to ensure a smooth collaboration experience.
+First of all, thank you for your interest in contributing to the ShogScript project! We appreciate your time and effort in helping improve the language. This document outlines the process for contributing to the project and provides guidelines to ensure a smooth collaboration experience.
 
 ## Table of Contents
 
