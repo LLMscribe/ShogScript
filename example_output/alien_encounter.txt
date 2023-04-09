@@ -536,7 +536,7 @@ def(lang(concise_domain_specific_efficient), aim(generate_recursive_story, detai
 
 [begin_ShogScript]
 
-```shog_initiate
+shog_initiate
 
 # Enhanced ShogScript structure elements
 keyphrase branching: Use "branch" keyword to define multiple possible story paths.
