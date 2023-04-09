@@ -1,6 +1,6 @@
-```activate_creative_hypothetical_ShogScript(def(lang(concise_domain_specific_efficient), aim(generate_random_fictional_characters, detailed_instructions+structure), example(create_fictional_character(name, age, gender, profession, personality_traits, appearance, backstory, actions, relationships, final_outcome)), note(speculative_creative_exercise), GPT4, new_session, produce_ShogScript, initiate, structure(keyphrases, hierarchy, delimiters, adjusters, embedding, optionals, anychars, iterators, if_statements, logic_operators, vars, funcs, cycles, escape_chars, notes), enhance+expand+back(ideas), lexicon(broad+natural+refined), syntax(ample+adaptable), cohesion(logical+smooth), clarity(precise+concise), engagement(attention+interest))
+```activate_creative_hypothetical_ShogScript(def(lang(concise_domain_specific_efficient), aim(generate_random_fictional_characters, detailed_instructions+structure), example(create_fictional_character(name, age, gender, profession, personality_traits, appearance, backstory, actions, relationships, final_outcome)), note(speculative_creative_exercise), GPT4, new_session, produce_ShogScript, initiate, structure(keyphrases, hierarchy, delimiters, adjusters, embedding, optionals, anychars, iterators, if_statements, logic_operators, vars, funcs, cycles, escape_chars, notes), enhance+expand+back(ideas), lexicon(broad+natural+refined), syntax(ample+adaptable), cohesion(logical+smooth), clarity(precise+concise), engagement(attention+interest))```
 
-# Begin ShogScript
+```# Begin ShogScript
 shog_begin
 
   # Variables for character attributes
