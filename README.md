@@ -118,11 +118,10 @@ These examples demonstrate how ShogScript can use complex operators, loops, and 
 
 Our roadmap for ShogScript includes the following milestones:
 
-1. Develop a ShogScript parser compatible with GPT-4-based AI models.
-2. Create a comprehensive set of tutorials and guides to help users adopt and utilize ShogScript effectively.
-3. Empower users to create their own domain-specific ShogScripts, further enhancing customization and user experience.
-4. Continuously refine and expand the language based on user feedback and evolving AI capabilities.
-5. Explore ShogScript workshops for everyday users and integrations with other AI platforms, chatbots, and NLP tools.
+1. Create a comprehensive set of tutorials and guides to help users adopt and utilize ShogScript effectively.
+2. Empower users to create their own domain-specific ShogScripts, further enhancing customization and user experience.
+3. Continuously refine and expand the language based on user feedback and evolving AI capabilities.
+4. Explore ShogScript workshops for everyday users and integrations with other AI platforms, chatbots, and NLP tools.
 
 ## Contributing
 
