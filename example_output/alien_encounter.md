@@ -187,10 +187,10 @@ And take a look at this random character generator I just made with ShogScript (
 {
 activate_creative_hypothetical_ShogScript(def(lang(concise_domain_specific_efficient), aim(generate_random_fictional_characters, detailed_instructions+structure), example(create_fictional_character(name, age, gender, profession, personality_traits, appearance, backstory, actions, relationships, final_outcome)), note(speculative_creative_exercise), GPT4, new_session, produce_ShogScript, initiate, structure(keyphrases, hierarchy, delimiters, adjusters, embedding, optionals, anychars, iterators, if_statements, logic_operators, vars, funcs, cycles, escape_chars, notes), enhance+expand+back(ideas), lexicon(broad+natural+refined), syntax(ample+adaptable), cohesion(logical+smooth), clarity(precise+concise), engagement(attention+interest))
 
-# Begin ShogScript
+#Begin ShogScript
 shog_begin
 
-  # Variables for character attributes
+  #Variables for character attributes
   [var_name = "name"]
   [var_age = "age"]
   [var_gender = "gender"]
@@ -202,7 +202,7 @@ shog_begin
   [var_relationships = "relationships"]
   [var_final_outcome = "final_outcome"]
 
-  # Functions to generate character attributes
+  #Functions to generate character attributes
   [func:gen_name: call_gpt_4("name(gen_random_name) character_type(fictional)")]
   [func:gen_age: call_gpt_4("age(gen_random_age) range(10, 80) character_type(fictional)")]
   [func:gen_gender: call_gpt_4("gender(gen_random_gender) character_type(fictional)")]
@@ -214,7 +214,7 @@ shog_begin
   [func:gen_relationships: call_gpt_4("relationships(gen_random_relationships) character_type(fictional)")]
   [func:gen_final_outcome: call_gpt_4("final_outcome(gen_random_final_outcome) character_type(fictional)")]
 
-  # Create fictional character
+  #Create fictional character
   [create_fictional_character]
   [attributes(
     name(var_name, gen_name()),
