@@ -58,7 +58,9 @@ scene3: "cosmic_connection"
 [end_ShogScript]
 
 ## Digging Further
+
 **gitnomad24601**: a more detailed ShogScript rendering of your story please
+
 **ChatGPT**: [begin_ShogScript]
 {
 story_elements: {
