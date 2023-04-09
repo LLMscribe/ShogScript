@@ -319,7 +319,7 @@ Please note that this is a speculative script, and as an AI language model, I'm 
 
 ---
 
-**gitnomad24601**: Can you build out the recursive wording building elements a bit more please?
+**gitnomad24601**: Can you build out the recursive world-building elements a bit more please?
 
 ---
 
