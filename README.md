@@ -2,6 +2,10 @@
 
 ShogScript is a powerful and innovative pseudo-language designed to unlock the full potential of the GPT-4 language model for writers. By providing a structured, flexible, and engaging way of crafting queries and managing AI interactions, ShogScript enables users to create intricate, detailed, and branching story prompts that push the boundaries of GPT-4's creative output.
 
+The language itself is half-baked, but I hope you will find, besides a little inspiration, two concretely useful takeaways:
+1. An idea of the kind of starter/activation/initialization prompts you’ll need to design in order to consistently “jump” GPT-4 into a custom pseudocode session.
+2. My shogtongued English teacher writing heuristics-injections to help improve your GPT-4 output, located at the very bottom of this file.
+
 ## Overview
 
 ShogScript offers a rich set of features and capabilities to support various aspects of the writing process, such as world-building, plot generation, and dialogue creation. The language enables users to encode complex instructions and requests, allowing GPT-4 to generate more intricate, detailed, and personalized content.
