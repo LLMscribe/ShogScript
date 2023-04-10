@@ -27,7 +27,7 @@ ShogScript offers a rich set of features and capabilities to support various asp
 - Dynamic dialogue and conversation generation
 - Reader-driven narrative choices
 - Adaptive storytelling based on user input
-- Writer and prompter organization, deployment, compression and token optimization tactics
+- Writer and prompter organization, deployment, compression, storage, and token optimization tactics
 
 Hopefully, ShogScript and other pseudocodes like it will help transform the way writers and readers interact with storytelling experiences.
 
