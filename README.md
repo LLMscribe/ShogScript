@@ -64,25 +64,6 @@ This prompt sets the stage for the creative and hypothetical mindset required to
 
 These examples demonstrate comprehensive and detailed ShogScript prompts, showcasing the capabilities of the language. By using this prompt, users can effectively communicate their requirements to GPT-4, making it easier to obtain desired outputs.
 
-### Simpler Prompts
-
-#### Example 1: Weather Query
-```query(weather, location, temp, precip)```
-
-This example demonstrates a simple ShogScript query for weather information, including temperature and precipitation for a specified location.
-
-#### Example 2: News Query with Filters
-
-```query(news, topic, date_range, filter(language, English))```
-
-This example shows a ShogScript query for news articles on a specific topic within a date range, filtered by language.
-
-#### Example 3: Movie Recommendations with Preferences
-
-```query(movie_recommendations, genre, year, preference(actor, director))```
-
-This example illustrates a ShogScript query for movie recommendations within a certain genre and year, taking into account user preferences for actors and directors.
-
 ### Intricate and Tailored Prompts
 
 #### Example 1: Personalized Movie Recommendations with Filters and Preferences
