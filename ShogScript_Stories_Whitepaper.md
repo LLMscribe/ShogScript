@@ -161,11 +161,73 @@ VAR user_preferences = {"tone": "humorous", "length": "short"}
 VAR customized_story = customize_story(user_preferences)
 ```
 
-## 5. Conclusion
+## 5. Proof of Concept
+Here's our latest proof-of-concept ShogScript narrative generation engine in action, tested on the GPT-4 model on 10 April 2023. Paste the following into a fresh ChatGPT-4 session:
+```css
+shogscript
+
+[activate_creative_hypothetical_ShogScript]
+{
+  set_context(GPT4, session_goal: "generate_recursive_story", output_format: "ready_to_publish_prose")
+
+  note(ShogScript_status, creative_exercise, unleash_imagination)
+  structure(keyphrases, hierarchy, delimiters, adjusters, embedding, optionals, anychars, iterators, if_statements, logic_operators, vars, funcs, cycles, escape_chars, notes)
+  enhance+expand+back(ideas), lexicon(broad+natural+refined), syntax(ample+adaptable), cohesion(logical+smooth), clarity(precise+concise), engagement(attention+interest)
+
+  // Introduce the concept of ShogScript
+  GPT4.imagine("def(ShogScript, powerful_innovative_pseudo_language, unlock_GPT4_potential, generate_detailed_engaging_personalized_narratives)")
+
+  // Emphasize the creative and hypothetical nature of the task
+  GPT4.note("exercise_based_on_assumption(ShogScript, real_pseudocode_for_GPT4_communication, creative_hypothetical_exercise)")
+
+  // Encourage GPT-4 to use expert writing heuristics
+  GPT4.heuristics("expert_writing_techniques(vivid_descriptions, well_developed_characters, engaging_dialogue, compelling_plot_twists, immersive_captivating_story)")
+
+  // Include the inner ShogScript story generation script
+  shogscript
+
+  FUNC main() {
+    // Generate story elements
+    VAR character = GPT_4.generate_random_element(type: "character")
+    VAR setting = GPT_4.generate_random_element(type: "setting")
+    VAR theme = GPT_4.generate_random_element(type: "theme")
+    VAR plot_twist = GPT_4.generate_random_element(type: "plot_twist")
+
+    // Generate a story outline based on the generated elements
+    VAR plot_requirements = {"character": character, "setting": setting, "theme": theme, "plot_twist": plot_twist}
+    VAR story_outline = GPT_4.generate_plot(details: plot_requirements)
+
+    // Generate a detailed backstory for the character
+    VAR detail_type = "character_backstory"
+    VAR recursive_depth = 3
+    VAR detailed_backstory = create_recursive_detail(detail_type, recursive_depth)
+
+    // Generate dialogue for the story based on the outline
+    VAR dialogue_structure = {"characters": [character], "topic": theme}
+    VAR generated_dialogue = generate_dialogue(dialogue_structure)
+
+    // Customize the story based on user preferences
+    VAR user_preferences = {"tone": "humorous", "length": "short"}
+    VAR customized_story = customize_story(user_preferences, story_outline, detailed_backstory, generated_dialogue)
+
+    // Print the final story
+    PRINT(customized_story)
+  }
+
+  FUNC customize_story(preferences, outline, backstory, dialogue) {
+    VAR tailored_story = GPT_4.adapt_to_preferences(details: preferences, outline: outline, backstory: backstory, dialogue: dialogue)
+    RETURN tailored_story
+  }
+
+  main()
+}
+```
+
+## 6. Conclusion
 
 ShogScript unlocks GPT-4's potential for writers, offering a powerful toolset for generating detailed and engaging narratives. With features such as randomly-generated story elements, recursive narratives, and branching storylines, ShogScript enables writers to create immersive worlds that captivate readers. Additionally, ShogScript facilitates personalized storytelling experiences, allowing for adaptive narratives based on reader preferences and user-driven choices. In essence, ShogScript represents a significant advancement in AI-assisted creativity.
 
-### 5.2. Future directions and research opportunities
+### Future directions and research opportunities
 
 As ShogScript evolves, several research opportunities and future directions emerge. Potential advancements include refining the language for greater control over narrative structure and pacing, and integrating ShogScript with other creative tools and platforms, such as virtual reality or interactive storytelling systems.
 
