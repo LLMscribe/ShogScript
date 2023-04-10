@@ -4,7 +4,7 @@ ShogScript is a powerful and innovative pseudo-language designed to unlock the f
 
 The language itself is half-baked, but I hope you will find, besides a little inspiration, two concretely useful takeaways:
 1. An idea of the kind of starter/activation/initialization prompts you’ll need to design in order to consistently jump a fresh GPT-4 into a custom pseudocode session.
-2. My shogtongued English teacher writing heuristics-injections to help improve your GPT-4 output, located at the very bottom of this file.
+2. My shogtongued writing teacher heuristics-injections to help improve your GPT-4 output, located at the very bottom of this file.
 
 ## Overview
 
