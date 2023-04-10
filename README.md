@@ -1,9 +1,9 @@
 # ShogScript
-A pseudocoding language that combines human-like expressiveness with machine-like precision for efficient interaction with GPT-4-based AI models, enhancing communication and user experience.
+A pseudocoding language experiment that combines human-like expressiveness with machine-like precision for efficient interaction with GPT-4-based AI models, enhancing communication and user experience.
 
 ## Context
 
-ShogScript was developed/hallucinated by GPT-4 in collaboration with an IELTS teacher, with the aim of organizing various iterations of aspirational prompt engineering. Please note that, as OpenAI is continually fine-tuning their models, your mileage may vary. 
+ShogScript is an evolving pseudocode being developed/hallucinated by GPT-4 in collaboration with an IELTS teacher, with the aim of organizing and deploying prompts in ChatGPT. Please note that, as OpenAI is continually fine-tuning their models, your mileage may vary. 
 
 The primary goal is to evolve ShogScript into a versatile shorthand suitable for a range of purposes, such as:
 
