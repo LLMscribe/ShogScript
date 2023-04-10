@@ -1,5 +1,5 @@
 # ShogScript
-A concise, domain-specific pseudo-language for efficient interaction with GPT-4-based AI models, enhancing communication and user experience. 
+A pseudocoding language that combines human-like expressiveness with machine-like precision for efficient interaction with GPT-4-based AI models, enhancing communication and user experience.
 
 ## Context
 
