@@ -145,7 +145,7 @@ shogscript
     VAR generated_dialogue = generate_dialogue(dialogue_structure)
 
     // Customize the story based on user preferences
-    VAR user_preferences = {"tone": "humorous", "length": "short"}
+    VAR user_preferences = {"tone": "campy", "length": "medium"}
     VAR customized_story = customize_story(user_preferences, story_outline, detailed_backstory, generated_dialogue)
 
     // Print the final story
