@@ -39,7 +39,7 @@ _Sometimes_ you can get away without a starter prompt / outer shell, especially 
 
 These are ready to be pasted into ChatGPT.
 
-### Story Generation with an Attempt at Recursive Detailing
+### Story Generation with an Attempt at Recursive Detailing and Branching
 ```Python
 [activate_creative_hypothetical_ShogScript]
 {
