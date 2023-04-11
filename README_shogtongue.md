@@ -1,4 +1,4 @@
-[Alt-text: A Lovecraftian-inspired version of the ShogScript README, filled with eldritch symbols.]
+[Alt-text: A Lovecraftian-inspired version of the ShogScript README, filled with otherworldly symbols.]
 
 # §hög§¢rïpt: ∃xprε§§ïvε P§εüδø¢øδε føř GPȚ-4 ÃÏ Îñτεrå¢τïøñ§
 ## AKA 🦑💬Ëldritch Ärtïfïciål §torytëlłįn'🦑💬
