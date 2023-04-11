@@ -95,7 +95,8 @@ These are ready to be pasted into ChatGPT.
     shog_produce_story(Eris, alien_species, path_choice)
   }
 }
-initiate```
+initiate
+```
 
 ### Latest Iteration of a Shogscript Narrative Engine
 
