@@ -100,7 +100,7 @@ initiate
 
 ### Latest Iteration of a Shogscript Narrative Engine
 
-This differently structured pseudocode was arrived at via a separate GPT-4 doing the ShogScript Whitepaper (see files). I did, however, have to show it the same activation/outer shell as before, because that seems to have the magic spice.
+This is a differently-structured pseudocode/ShogScript.
 ```css
 shogscript
 
