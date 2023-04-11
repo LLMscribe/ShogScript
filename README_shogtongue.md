@@ -41,7 +41,7 @@ _§ømėtïmεš_ ÿøµ čäń ĝëţ åωäÿ ωĩtħøµţ å śtâŗtêŗ pr
 
 ## Prøof øf Çøñcept
 
-## ζ͞҉͠#̸͜͜͝ Story Generation with an Attempt at Recursive Detailing
+## ζ͞҉͠#̸͜͜͝ Šţøŗý Ğëñęŗåţîøñ ŵïţħ åñ Åţţëmþţ åţ Ŗęçűřşîvę Ðęţåîłîñğ
 ```Python
 [ācŧįvåţę_čřęåţįvę_hy̵̷͠͞p̡̡͜͞o͠t̨h̸̡̛͘ȩ̡͘͠t̨̧͜͞i̵̷͠͝c̨͘͝͠a͘͡͏͏l̷̡̡͟_S͝͝h͏ơg̢̢͏S̡̛͝c̢r҉̡i͟͢p̢̛͞t]
 {
