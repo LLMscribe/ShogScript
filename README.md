@@ -100,7 +100,7 @@ initiate
 
 ### Latest Iteration of a Shogscript Narrative Engine
 
-This is a differently-structured pseudocode/ShogScript.
+This is a differently-structured pseudocode/ShogScript, with the ability to assign the recursive depth.
 ```css
 shogscript
 
