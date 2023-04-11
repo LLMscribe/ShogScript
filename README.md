@@ -31,73 +31,144 @@ ShogScript offers a rich set of features and capabilities to support various asp
 
 Hopefully, ShogScript and other pseudocodes like it will help transform the way writers and readers interact with storytelling experiences.
 
-## Starter Prompts
+## Jump Starter Prompts / Outer Shells
 
-_Sometimes_ you can get away without a starter prompt, especially with smaller snippets. But, if you want a better chance of your ShogScript prompt working on a fresh ChatGPT GPT-4 session, and certainly if you want your machine to then *generate* ShogScript without protesting, you'll need to initiate ShogScript to get it into the right speculative mindset. You can use something like one of the following starter prompts:
+_Sometimes_ you can get away without a starter prompt / outer shell, especially with smaller snippets. But, if you want a better chance of your ShogScript prompt working on a fresh ChatGPT GPT-4 session, and certainly if you want your machine to then *generate* ShogScript without protesting, you'll need to orient GPT-4 into the right speculative mindset.
 
-### Starter Prompt #1 (for Story Gen)
-```activate_creative_hypothetical_ShogScript(def(lang(concise_domain_specific_efficient), aim(detailed_instructions+structure), example(query(weather,location,temp,precip,forecast(time=day+night+week)), note(ShogScript_status, creative_exercise, shogtongue, unleash_imagination),  task(gen_story,subject1+subject2+OR+subject3,duration(brief+moderate+extended)), syntax_rules)), GPT4, new_session, produce_ShogScript, initiate, structure(keyphrases, hierarchy, delimiters, adjusters, embedding, optionals, anychars, iterators, if_statements, logic_operators, vars, funcs, cycles, escape_chars, notes), enhance+expand+back(ideas), lexicon(broad+natural+refined), syntax(ample+adaptable), cohesion(logical+smooth), clarity(precise+concise), engagement(attention+interest))```
+## Proof of Concept
 
-### Starter Prompt #2 (for Objective-Ish Articles etc.)
-```activate_creative_hypothetical_ShogScript(def(concise_domain_specific_efficient), example(query(weather,location,temp,precip)), note(ShogScript_status, creative_exercise, shogtongue, unleash_imagination),  GPT4, new_session, produce_ShogScript, initiate, structure(keyphrases, hierarchy, delimiters, adjusters, embedding, optionals, anychars, iterators, if_statements, logic_operators, vars, funcs, cycles, escape_chars, notes), develop+extend+support(ideas), vocab(wide+natural+sophisticated), grammar(wide+flexible), cohesion(logical+smooth), clarity(precise+concise), engagement(attention+interest), mood(objective+explanatory), viewpoint(forward_looking))```
+These are ready to be pasted into ChatGPT.
 
-This prompt sets the stage for the creative and hypothetical mindset required to effectively use ShogScript.
+### Story Generation with an Attempt at Recursive Detailing
+```Python
+[activate_creative_hypothetical_ShogScript]
+{
+    set_context(GPT4, session_goal: "generate_recursive_story", output_format: "ready_to_publish_prose")
 
-## Usage Examples
+    note(ShogScript_status, creative_exercise, unleash_imagination)
+    structure(keyphrases, hierarchy, delimiters, adjusters, embedding, optionals, anychars, iterators, if_statements, logic_operators, vars, funcs, cycles, escape_chars, notes)
+    enhance+expand+back(ideas), lexicon(broad+natural+refined), syntax(ample+adaptable), cohesion(logical+smooth), clarity(precise+concise), engagement(attention+interest)
 
-### Detailed Prompts: Story Generation
+    shog_begin
+    {
+    shog_initiate
 
-*Note that these should be placed immediately after the starter prompt in your very first message.*
+    # World-building functions
+    gen_flora(): call_gpt_4("generate_flora(gen_recursive_details) alien_world")
+    gen_fauna(): call_gpt_4("generate_fauna(gen_recursive_details) alien_world")
+    gen_climate(): call_gpt_4("generate_climate(gen_recursive_details) alien_world")
+    gen_geography(): call_gpt_4("generate_geography(gen_recursive_details) alien_world")
+    gen_history(): call_gpt_4("generate_history(gen_recursive_details) alien_world")
+    gen_culture(): call_gpt_4("generate_culture(gen_recursive_details) alien_world")
 
-#### Example 1: Futuristic Cityscape Story
-```task(gen_story), subject(futuristic_cityscape), duration(moderate), mood(mysterious+adventurous), setting(urban+high-tech), characters(main_character:private_investigator, secondary_character:AI_assistant), plot(twists+reveals), theme(humanity+technology), writing_style(descriptive+suspenseful), engagement(immersion+surprise), initiate```
+    # Character generation
+    character(Eris, {
+      name: "Eris",
+      role: "adventurous human explorer",
+      traits: call_gpt_4("generate_character_traits(gen_recursive_details) Eris"),
+      appearance: call_gpt_4("generate_character_appearance(gen_recursive_details) Eris"),
+      backstory: call_gpt_4("generate_character_backstory(gen_recursive_details) Eris"),
+      abilities: call_gpt_4("generate_character_abilities(gen_recursive_details) Eris")
+    })
 
-#### Example 2: Time Travel Adventure Story
-```task(gen_story), subject(time_travel_adventure), duration(extended), mood(action-packed+thought-provoking), setting(past+future), characters(main_character:scientist, secondary_character:historical_figure), plot(interwoven+nonlinear), theme(consequences+choices), writing_style(crisp+cinematic), engagement(curiosity+excitement), initiate```
+    character(alien_species, {
+      species: call_gpt_4("generate_alien_species_name(gen_recursive_details) alien_species"),
+      traits: call_gpt_4("generate_alien_species_traits(gen_recursive_details) alien_species"),
+      appearance: call_gpt_4("generate_alien_species_appearance(gen_recursive_details) alien_species"),
+      society: call_gpt_4("generate_alien_society(gen_recursive_details) alien_species"),
+      technology: call_gpt_4("generate_alien_technology(gen_recursive_details) alien_species")
+    })
 
-#### Example 3: Alien Encounter Story
-```task(gen_story), subject(alien_encounter), duration(brief), mood(mystical+introspective), setting(outer_space+alien_world), characters(main_character:astronaut, secondary_character:alien_species), plot(first_contact+mutual_understanding), theme(communication+compassion), writing_style(lyrical+imaginative), engagement(wonder+reflection), initiate```
+    # Recursive world-building
+    shog_build_world()
 
-### Detailed Prompts: Objective-Ish Articles etc.
+    # Choose a story path
+    path_choice: call_gpt_4("choose_branch avoid_cliches:true", [["path1", "path2"]])
 
-#### Example 1: Technological Advancements
-```produce_text, subject(technological_advancements), size(compact+in-depth), emphasis(effect+community), viewpoint(forward_looking), mood(objective+explanatory), structure(logical+coherent), clarity(precise+concise), engagement(attention+interest), initiate```
+    # Go through the decisions and generations verbose in ShogScript
+    shog_generate_decisions()
 
-#### Example 2: Health and Wellness Advice
-```produce_text, subject(health_wellness_advice), size(brief+informative), emphasis(nutrition+exercise), target_audience(adults_30-50), mood(encouraging+informative), format(listicle), style(conversational+expert), engagement(motivation+education), initiate```
+    # Explicitly instruct GPT-4 to craft the story into a ready-to-publish text
+    shog_craft_story("ready_to_publish")
 
-#### Example 3: Comparative Analysis of Historical Figures
-```produce_text, subject(comparative_analysis), context(historical_figures), figures(Gandhi,Mandela), focus(leadership+impact), perspective(cultural+political), mood(analytical+respectful), structure(introduction+comparison+conclusion), depth(surface_level+nuanced), engagement(insight+intrigue), initiate```
+    # Produce the final story
+    shog_produce_story(Eris, alien_species, path_choice)
+  }
+}
+initiate```
 
-These examples demonstrate comprehensive and detailed ShogScript prompts, showcasing the capabilities of the language. By using this prompt, users can effectively communicate their requirements to GPT-4, making it easier to obtain desired outputs.
+### Latest Iteration of a Shogscript Narrative Engine
 
-### Intricate and Tailored Prompts
+This differently structured pseudocode was arrived at via a separate GPT-4 doing the ShogScript Whitepaper (see files). I did, however, have to show it the same activation/outer shell as before, because that seems to have the magic spice.
+```css
+shogscript
 
-#### Example 1: Personalized Movie Recommendations with Filters and Preferences
-```query(movie_recommendations), genre(user_genre), year(user_year), filter(rating>8, language(user_language)), preference(actor(user_actor), director(user_director)), <if user_decade=2010s>(year(2010:2019)), <if user_decade=2000s>(year(2000:2009)), initiate```
+[activate_creative_hypothetical_ShogScript]
+{
+  set_context(GPT4, session_goal: "generate_recursive_story", output_format: "ready_to_publish_prose")
 
-This example illustrates a ShogScript query for personalized movie recommendations, taking into account user preferences and using if statements to further filter the results based on a specified decade.
+  note(ShogScript_status, creative_exercise, unleash_imagination)
+  structure(keyphrases, hierarchy, delimiters, adjusters, embedding, optionals, anychars, iterators, if_statements, logic_operators, vars, funcs, cycles, escape_chars, notes)
+  enhance+expand+back(ideas), lexicon(broad+natural+refined), syntax(ample+adaptable), cohesion(logical+smooth), clarity(precise+concise), engagement(attention+interest)
 
-#### Example 2: Iterative Text Generation for Multiple Topics
-```generate_text, topics_list(technology, environment, health, politics, sports), {5}(topic(topic_iteration), emphasis(impact+society), viewpoint(forward_looking), mood(informative+neutral), initiate, move_to_next_topic), initiate```
+  // Introduce the concept of ShogScript
+  GPT4.imagine("def(ShogScript, powerful_innovative_pseudo_language, unlock_GPT4_potential, generate_detailed_engaging_personalized_narratives)")
 
-In this example, ShogScript generates text for multiple topics using loops and iterators. It iterates through a list of topics and generates a text segment for each topic, while maintaining the same focus, viewpoint, and mood.
+  // Emphasize the creative and hypothetical nature of the task
+  GPT4.note("exercise_based_on_assumption(ShogScript, real_pseudocode_for_GPT4_communication, creative_hypothetical_exercise)")
 
-#### Example 3: Comparative Analysis with Conditions and Complex Logic
-```produce_text, subject(comparative_analysis), context(historical_figures), figures(Gandhi,Mandela), focus(leadership+impact), perspective(cultural+political), mood(analytical+respectful), <if figures_include(Gandhi+Mandela)>(emphasis(nonviolence+reconciliation)), <if figures_include(Einstein+Newton)>(emphasis(scientific_contributions+legacy)), <if figures_include(Shakespeare+Tolstoy)>(emphasis(literary_genius+influence)), structure(introduction+comparison+conclusion), depth(surface_level+nuanced), engagement(insight+intrigue), initiate```
+  // Encourage GPT-4 to use expert writing heuristics
+  GPT4.heuristics("expert_writing_techniques(vivid_descriptions, well_developed_characters, engaging_dialogue, compelling_plot_twists, immersive_captivating_story)")
 
-This example showcases a ShogScript prompt for a comparative analysis of historical figures with complex logic using if statements. Depending on the figures included, it automatically adjusts the emphasis of the analysis.
+  // Include the inner ShogScript story generation script
+  shogscript
 
-These examples demonstrate how ShogScript can use complex operators, loops, and if statements to create intricate and tailored prompts for various tasks.
+  FUNC main() {
+    // Generate story elements
+    VAR character = GPT_4.generate_random_element(type: "character")
+    VAR setting = GPT_4.generate_random_element(type: "setting")
+    VAR theme = GPT_4.generate_random_element(type: "theme")
+    VAR plot_twist = GPT_4.generate_random_element(type: "plot_twist")
+
+    // Generate a story outline based on the generated elements
+    VAR plot_requirements = {"character": character, "setting": setting, "theme": theme, "plot_twist": plot_twist}
+    VAR story_outline = GPT_4.generate_plot(details: plot_requirements)
+
+    // Generate a detailed backstory for the character
+    VAR detail_type = "character_backstory"
+    VAR recursive_depth = 3
+    VAR detailed_backstory = create_recursive_detail(detail_type, recursive_depth)
+
+    // Generate dialogue for the story based on the outline
+    VAR dialogue_structure = {"characters": [character], "topic": theme}
+    VAR generated_dialogue = generate_dialogue(dialogue_structure)
+
+    // Customize the story based on user preferences
+    VAR user_preferences = {"tone": "humorous", "length": "short"}
+    VAR customized_story = customize_story(user_preferences, story_outline, detailed_backstory, generated_dialogue)
+
+    // Print the final story
+    PRINT(customized_story)
+  }
+
+  FUNC customize_story(preferences, outline, backstory, dialogue) {
+    VAR tailored_story = GPT_4.adapt_to_preferences(details: preferences, outline: outline, backstory: backstory, dialogue: dialogue)
+    RETURN tailored_story
+  }
+
+  main()
+}
+```
 
 ## Roadmap
 
 Our roadmap for ShogScript includes the following milestones:
 
-1. Create a comprehensive set of tutorials and guides to help users adopt and utilize ShogScript effectively.
-2. Empower users to create their own domain-specific ShogScripts, further enhancing customization and user experience.
-3. Continuously refine and expand the language based on user feedback and evolving AI capabilities.
-4. Explore ShogScript workshops for everyday users and integrations with other AI platforms, chatbots, and NLP tools.
+1. Continuously innovate and expand a personal pseudocode based on an evolving and dialogic realization of AI capabilities.
+2. Build and organize a collection of modular and ready-to-go prompts. 
+3. Help users create their own pseudo-structures and prompt-engines.
+4. Start an ironic shoggoth-tongue GPT cult. "ßεwªrë thë trïłł!ðη-dïmεn$!θn@ł §þaçε & ïț$ șürþrïšęș."
+4. Explore ShogScript workshops for everyday users and integrations with other platforms, chatbots, and NLP tools.
 
 ## Contributing
 
