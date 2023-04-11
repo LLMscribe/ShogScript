@@ -1,17 +1,7 @@
 [Alt-text: A Lovecraftian-inspired version of the ShogScript README, filled with eldritch symbols.]
 
 # §hög§¢rïpt: ∃xprε§§ïvε P§εüδø¢øδε føř GPȚ-4 ÃÏ Îñτεrå¢τïøñ§
-## AKA 🦑💬§hög§çrïpt - Ëldritch Ärtïfïciål §torytëlłįn'🦑💬
-
-📜 Tåbłë øf Cøntënt§ 📜
-¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
-1. Ïntrøductiøñ
-2. Fëätüres
-3. Ëxãmplë§
-4. Røådmåp
-5. Cøntributïng
-6. Lïcën§ë
-7. TL;DR (Äñ ïñcantåtïoñ tø ïmprövë yøur prømpt§)
+## AKA 🦑💬Ëldritch Ärtïfïciål §torytëlłįn'🦑💬
 
 §hög§¢rïpt ï§ å pθwεrƒüł åñđ ïññøvåtïvε p§εüδø-låñğμåğε dε§ïgñεđ τø üñlø¢κ thε füłł pøτεñţïål øƒ thε ĞƤŢ-4 łåñğμåğε møđεł ƒøř ŵřïtεřš. ßÿ þřøvïđïñğ å §ţřü¢τμřεđ, ƒłεxïßłε, åñđ εñgåğïñğ ŵåÿ øƒ ¢řåƒtïñğ qμεřïε§ åñđ måñågïñğ ÃÏ ïñţεřå¢ţïøñ§, §hög§¢rïpt εñåβłε§ û§εř§ τø ¢řεåţε ïñţřï¢åţε, đεţåïłεđ, åñđ ßřåñ¢hïñğ šťørÿ þřømþţ§ τhåţ þμ§h τhε ßøμñđåřïε§ øƒ ĞƤŢ-4'§ ¢řεåţïvε øμτþμţ.
 
