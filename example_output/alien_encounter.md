@@ -636,3 +636,25 @@ shog_produce_story
 
 initiate
 ```
+
+### Sample outputs of the above script, tests as of 11 April 2023 on GPT-4
+
+#### Sample 1
+
+Once upon a time, in a faraway alien world, the adventurous human explorer Eris found herself in a fascinating, uncharted territory. This alien world was home to a breathtaking variety of flora and fauna, with plants that emitted soft glows in the dark and creatures that communicated through colors and patterns. The climate was mild, and the geography of the world was marked by spiraling mountains and vast underground cave networks. This world had a rich history of inhabitants that had shaped the landscape over millennia, leaving behind ruins that hinted at ancient, advanced civilizations. The current inhabitants, an alien species known as the Jhivari, had a complex and deeply spiritual culture that celebrated the interconnectedness of all beings.
+
+Eris had ventured far from her own world to learn about this unique place and its inhabitants. She soon found herself befriending one of the Jhivari, a curious and compassionate being named Zorath. They were eager to learn from each other, and their interactions led them down two possible paths:
+
+Path 1: Eris and Zorath would embark on a journey to uncover the hidden secrets of the ancient ruins and the advanced civilization that once thrived in this world.
+
+Path 2: Eris and Zorath would work together to address a looming environmental crisis that threatened the delicate balance of the alien world's ecosystem.
+
+After careful consideration, Eris chose Path 2.
+
+Eris and Zorath formed a bond as they collaborated to save the world from the impending ecological disaster. They learned from each other's knowledge and skills, combining the best of their respective species' technology and wisdom. This shared mission forged a strong connection between them, transcending language and cultural barriers.
+
+As they worked together, Eris and Zorath faced numerous challenges, from hostile fauna to treacherous landscapes. They also encountered other members of the Jhivari species who initially viewed their collaboration with skepticism. However, their united front, combined with their genuine compassion and understanding of each other's perspectives, helped them overcome these obstacles and win the trust of the Jhivari community.
+
+In the end, Eris and Zorath successfully averted the environmental crisis, saving the world and solidifying the bond between the human and Jhivari species. As they said their farewells, Zorath shared a piece of Jhivari wisdom with Eris, which she would carry with her for the rest of her life: "Compassion is the bridge that connects all beings, transcending the boundaries of language, culture, and species."
+
+And so, Eris returned to her own world, forever changed by her experiences on the alien world and her friendship with Zorath. She continued to explore the vast expanse of the universe, always guided by the lessons she learned and the compassion she shared with her Jhivari friend.
