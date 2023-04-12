@@ -388,7 +388,7 @@ Please note that this is a speculative script, and as an AI language model, I'm 
 ---
 
 **ChatGPT**: You're right, the previous ShogScript didn't fully demonstrate the branching interactions. I apologize for the oversight. Here's a revised version of the ShogScript that includes multiple branching interaction options for the main character, Eris, and the alien species.
-
+```css
 [begin_ShogScript]
 {
 shog_initiate
@@ -450,6 +450,7 @@ branch(path2)
 shog_produce_story
 }
 [end_ShogScript]
+```
 
 In this revised ShogScript, I've expanded the character interactions section by including multiple branching interaction options for Eris and the alien species. These options include shared learning, collaboration, and facing challenges together, as well as different types of farewells.
 
@@ -463,6 +464,7 @@ Please note that this is a speculative script, and as an AI language model, I'm 
 
 **ChatGPT**: Of course! Here is a complete hypothetical-creative ShogScript prompt that combines the elements of recursive world-building, character generation, branching interactions, and multiple story paths.
 
+```css
 [activate_creative_hypothetical_ShogScript]
 {
 def(lang(concise_domain_specific_efficient), aim(generate_recursive_story, detailed_instructions+structure), example(create_recursive_story(character_gen, world_building, branching_interactions, story_paths)), note(ShogScript_status, creative_exercise, unleash_imagination), task(gen_recursive_story, characters(Eris+alien_species), setting(alien_world), interactions(branching+dynamic), theme(communication+compassion), GPT4, new_session, produce_ShogScript, initiate, structure(keyphrases, hierarchy, delimiters, adjusters, embedding, optionals, anychars, iterators, if_statements, logic_operators, vars, funcs, cycles, escape_chars, notes), enhance+expand+back(ideas), lexicon(broad+natural+refined), syntax(ample+adaptable), cohesion(logical+smooth), clarity(precise+concise), engagement(attention+interest))
@@ -531,11 +533,12 @@ shog_produce_story
 
 initiate
 }
+```
 ---
 ...*and so on*...
 ---
-*Eventually, hopefully you'll harvest a nice little new working ShogScript ready to paste into a fresh GPT-4*
-
+**Eventually, hopefully you'll harvest a nice little new working ShogScript ready to paste into a fresh GPT-4:**
+```css
 [activate_creative_hypothetical_ShogScript]
 {
 def(lang(concise_domain_specific_efficient), aim(generate_recursive_story, detailed_instructions+structure), example(create_recursive_story(character_gen, world_building, branching_interactions, story_paths)), note(ShogScript_status, creative_exercise, unleash_imagination), task(gen_recursive_story, characters(Eris+alien_species), setting(alien_world), interactions(branching+dynamic), theme(communication+compassion)))
@@ -632,3 +635,4 @@ shog_produce_story
 }
 
 initiate
+```
