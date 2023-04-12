@@ -6,7 +6,6 @@ activate_creative_hypothetical_ShogScript(def(lang(concise_domain_specific_effic
 
 task(gen_story), subject(alien_encounter), duration(brief), mood(mystical+introspective), setting(outer_space+alien_world), characters(main_character:astronaut, secondary_character:alien_species), plot(first_contact+mutual_understanding), theme(communication+compassion), writing_style(lyrical+imaginative), engagement(wonder+reflection), initiate
 ```
---
 
 ## ChatGPT (GPT-4) Response
 
@@ -24,13 +23,11 @@ Through the silent symphony of their connection, they unraveled the secrets of t
 
 And so, beneath the watchful eyes of a billion stars, Eris and the alien species embraced one another in a bond born of wonder and reflection. For within the vastness of the cosmos, they had discovered that the most profound connections could be found in the silent spaces between the stars, where hearts beat in time with the universe, and souls touched in a dance of cosmic understanding.
 
----
 
 ## And back into ShogScript
 
 **gitnomad24601**: great. please give the specifics of that story back to me in ShogScript
 
----
 
 **ChatGPT**: 
 ```css
@@ -69,13 +66,9 @@ scene3: "cosmic_connection"
 [end_ShogScript]
 ```
 
----
-
 ## Digging Further
 
 **gitnomad24601**: a more detailed ShogScript rendering of your story please
-
----
 
 **ChatGPT**: 
 ```css
@@ -160,8 +153,6 @@ act3: {
 }
 [end_ShogScript]
 ```
-
----
 
 ## Pushing it to innovate
 
