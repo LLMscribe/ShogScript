@@ -639,7 +639,7 @@ initiate
 
 ### Sample outputs of the above script, tests as of 11 April 2023 on GPT-4
 
-### Sample 2
+### Sample 1
 ```shog_initiate```
 
 Eris, an adventurous human explorer, finds herself on an alien world unlike any she has encountered before. She has a strong sense of curiosity, determination, and adaptability, which has led her to explore the uncharted reaches of space. On this alien world, Eris encounters a unique alien species known as the Vieraz. The Vieraz are highly intelligent and exhibit strong community bonds, as well as an innate ability to adapt to their surroundings.
@@ -669,7 +669,7 @@ Together, Eris and the Vieraz face numerous challenges, strengthen their bond, a
 ```shog_produce_story```
 
 
-#### Sample 3
+#### Sample 2
 
 Once upon a time, in a faraway alien world, the adventurous human explorer Eris found herself in a fascinating, uncharted territory. This alien world was home to a breathtaking variety of flora and fauna, with plants that emitted soft glows in the dark and creatures that communicated through colors and patterns. The climate was mild, and the geography of the world was marked by spiraling mountains and vast underground cave networks. This world had a rich history of inhabitants that had shaped the landscape over millennia, leaving behind ruins that hinted at ancient, advanced civilizations. The current inhabitants, an alien species known as the Jhivari, had a complex and deeply spiritual culture that celebrated the interconnectedness of all beings.
 
