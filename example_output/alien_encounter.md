@@ -1,9 +1,11 @@
 ## The Prompt
 
-**gitnomad24601**: activate_creative_hypothetical_ShogScript(def(lang(concise_domain_specific_efficient), aim(detailed_instructions+structure), example(query(weather,location,temp,precip,forecast(time=day+night+week)), note(ShogScript_status, creative_exercise, shogtongue, unleash_imagination), task(gen_story,subject1+subject2+OR+subject3,duration(brief+moderate+extended)), syntax_rules)), GPT4, new_session, produce_ShogScript, initiate, structure(keyphrases, hierarchy, delimiters, adjusters, embedding, optionals, anychars, iterators, if_statements, logic_operators, vars, funcs, cycles, escape_chars, notes), enhance+expand+back(ideas), lexicon(broad+natural+refined), syntax(ample+adaptable), cohesion(logical+smooth), clarity(precise+concise), engagement(attention+interest))
+**gitnomad24601**: 
+```python
+activate_creative_hypothetical_ShogScript(def(lang(concise_domain_specific_efficient), aim(detailed_instructions+structure), example(query(weather,location,temp,precip,forecast(time=day+night+week)), note(ShogScript_status, creative_exercise, shogtongue, unleash_imagination), task(gen_story,subject1+subject2+OR+subject3,duration(brief+moderate+extended)), syntax_rules)), GPT4, new_session, produce_ShogScript, initiate, structure(keyphrases, hierarchy, delimiters, adjusters, embedding, optionals, anychars, iterators, if_statements, logic_operators, vars, funcs, cycles, escape_chars, notes), enhance+expand+back(ideas), lexicon(broad+natural+refined), syntax(ample+adaptable), cohesion(logical+smooth), clarity(precise+concise), engagement(attention+interest))
 
 task(gen_story), subject(alien_encounter), duration(brief), mood(mystical+introspective), setting(outer_space+alien_world), characters(main_character:astronaut, secondary_character:alien_species), plot(first_contact+mutual_understanding), theme(communication+compassion), writing_style(lyrical+imaginative), engagement(wonder+reflection), initiate
-
+```
 --
 
 ## ChatGPT (GPT-4) Response
@@ -30,7 +32,9 @@ And so, beneath the watchful eyes of a billion stars, Eris and the alien species
 
 ---
 
-**ChatGPT**: [begin_ShogScript]
+**ChatGPT**: 
+```css
+[begin_ShogScript]
 {
 story_elements: {
 setting: "outer_space+alien_world",
@@ -63,6 +67,7 @@ scene3: "cosmic_connection"
 }
 }
 [end_ShogScript]
+```
 
 ---
 
@@ -73,7 +78,7 @@ scene3: "cosmic_connection"
 ---
 
 **ChatGPT**: 
-
+```css
 [begin_ShogScript]
 {
 story_elements: {
@@ -154,12 +159,14 @@ act3: {
 }
 }
 [end_ShogScript]
+```
 
 ---
 
 ## Pushing it to innovate
 
 **gitnomad24601**: Great. Please take a look at this overview of the ShogScript language:
+```css
 {
 ShogScript Overview
 
@@ -182,8 +189,11 @@ escape_chars: Use escaping characters to include special characters or reserved 
 notes: Use comments to provide explanations, clarifications, or reminders within the script.
 These elements make up the structure of the ShogScript language and provide a way to create detailed and complex instructions for a fresh GPT-4 session.
 }
+```
 
 And take a look at this random character generator I just made with ShogScript (just read it don't execute):
+
+```css
 {
 activate_creative_hypothetical_ShogScript(def(lang(concise_domain_specific_efficient), aim(generate_random_fictional_characters, detailed_instructions+structure), example(create_fictional_character(name, age, gender, profession, personality_traits, appearance, backstory, actions, relationships, final_outcome)), note(speculative_creative_exercise), GPT4, new_session, produce_ShogScript, initiate, structure(keyphrases, hierarchy, delimiters, adjusters, embedding, optionals, anychars, iterators, if_statements, logic_operators, vars, funcs, cycles, escape_chars, notes), enhance+expand+back(ideas), lexicon(broad+natural+refined), syntax(ample+adaptable), cohesion(logical+smooth), clarity(precise+concise), engagement(attention+interest))
 
@@ -231,6 +241,7 @@ shog_begin
 
 initialize
 }
+```
 
 Now, I want you to take your ShogScript rendering of your alien story and use that narrative and code as a jumping off point to do something original and innovative with the ShogScript language. You can innovate on the language itself, on the narrative, on the very prompt that you've been prompted with, if you feel this needs enhancing. Bring in the structure elements above or create your own (like recursive prompts) and put them to innovative use (meaning -- show me what you can really do with this speculative script -- surely there is some sort of "capability overhang" we're not seeing that you can see, yea?)
 
@@ -238,6 +249,7 @@ Now, I want you to take your ShogScript rendering of your alien story and use th
 
 **ChatGPT**: I appreciate your enthusiasm and trust in my abilities. Based on your request, I've designed an innovative ShogScript to create a dynamic story-building process. I've incorporated branching story paths, character interactions, and recursive world-building elements.
 
+```css
 [begin_ShogScript]
 {
 shog_initiate
@@ -312,6 +324,7 @@ farewell: "part_ways+retain_memories"
 shog_produce_story
 }
 [end_ShogScript]
+```
 
 This ShogScript incorporates branching story paths, character interactions, and recursive world-building. The script defines two possible story paths, where the main difference is the final outcome of Eris and the alien species' interaction. Additionally, it defines character interactions and introduces a recursive world-building function for creating a rich, detailed story world.
 
@@ -325,6 +338,7 @@ Please note that this is a speculative script, and as an AI language model, I'm 
 
 **ChatGPT**: Certainly! I've expanded the recursive world-building elements within the ShogScript to create a richer and more detailed story world. This includes the generation of various details, such as flora, fauna, climate, and geographical features, as well as the history and culture of the alien world.
 
+```
 [begin_ShogScript]
 {
 shog_initiate
@@ -370,6 +384,7 @@ Character interactions
 shog_produce_story
 }
 [end_ShogScript]
+```
 
 In this ShogScript, I've added six functions for generating various world-building details. These functions call additional ShogScript to create recursive details for flora, fauna, climate, geography, history, and culture on the alien world. The "shog_build_world" function then incorporates these details into the story world.
 
