@@ -639,7 +639,37 @@ initiate
 
 ### Sample outputs of the above script, tests as of 11 April 2023 on GPT-4
 
-#### Sample 1
+### Sample 2
+```shog_initiate```
+
+Eris, an adventurous human explorer, finds herself on an alien world unlike any she has encountered before. She has a strong sense of curiosity, determination, and adaptability, which has led her to explore the uncharted reaches of space. On this alien world, Eris encounters a unique alien species known as the Vieraz. The Vieraz are highly intelligent and exhibit strong community bonds, as well as an innate ability to adapt to their surroundings.
+
+This alien world is a stunning landscape of iridescent foliage and bioluminescent fauna. Massive trees with translucent leaves tower above the ground, filtering sunlight into the dense undergrowth below. The fauna consists of a diverse array of creatures, from tiny, hovering insects with luminescent wings to giant, amphibious predators that lurk in the murky depths of the numerous rivers and lakes that crisscross the planet.
+
+The climate is predominantly tropical, with heavy rainfall throughout the year and a constant, warm temperature. The landscape is characterized by lush, rolling hills, dense forests, and vast, interconnected bodies of water teeming with life. The history of the alien world is marked by a series of cataclysmic events that have shaped its geography and evolution. The culture of the Vieraz is deeply rooted in the shared experiences of their ancestors, with an emphasis on the preservation of knowledge and respect for the natural world.
+
+As Eris explores this alien world, she is presented with two possible paths:
+
+Path1: Eris discovers an ancient Vieraz temple hidden deep within the forest, where she uncovers a secret that could change the course of the planet's future.
+
+Path2: Eris encounters a group of Vieraz who are facing a dangerous threat to their way of life, and she must decide whether to help them or continue on her own journey.
+
+GPT-4 selects branch 2.
+
+Eris chooses to help the group of Vieraz, and together they embark on a journey to confront the looming threat. Along the way, Eris and the Vieraz have several interactions:
+
+Option 1: Eris and the Vieraz engage in shared learning, where they exchange knowledge about their respective cultures and technology. When it is time for them to part ways, they bid each other a heartfelt farewell, promising to carry the lessons they've learned with them.
+
+Option 2: Eris and the Vieraz collaborate to develop new strategies for facing the unknown dangers that lie ahead. As they overcome each challenge, they learn valuable lessons about conflict resolution and the importance of cooperation.
+
+Option 3: Eris and the Vieraz face a shared challenge that tests their combined skills and knowledge. As they part ways after their victory, they impart parting wisdom to one another, enriching each other's understanding of the universe.
+
+Together, Eris and the Vieraz face numerous challenges, strengthen their bond, and ultimately save the Vieraz way of life. This unique journey leaves both Eris and the Vieraz forever changed, as they discover the power of communication, compassion, and the true meaning of friendship.
+
+```shog_produce_story```
+
+
+#### Sample 3
 
 Once upon a time, in a faraway alien world, the adventurous human explorer Eris found herself in a fascinating, uncharted territory. This alien world was home to a breathtaking variety of flora and fauna, with plants that emitted soft glows in the dark and creatures that communicated through colors and patterns. The climate was mild, and the geography of the world was marked by spiraling mountains and vast underground cave networks. This world had a rich history of inhabitants that had shaped the landscape over millennia, leaving behind ruins that hinted at ancient, advanced civilizations. The current inhabitants, an alien species known as the Jhivari, had a complex and deeply spiritual culture that celebrated the interconnectedness of all beings.
 
