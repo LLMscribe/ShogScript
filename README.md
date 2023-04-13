@@ -6,7 +6,7 @@ The language itself is half-baked, but I hope you will find, besides a little in
 1. **An idea of the kind of starter/activation/initialization prompts you’ll need** to design in order to consistently jump a fresh GPT-4 into a custom pseudocode session.
 2. **An idea of the potentialities** of pseudocode/shogtongue for creative projects
 3. **Two of my latest working prompts**: one is in the recursive_story_gen folder; the other is embedded in Section 6 ("Proof of Concept") of the ShogScript_Stories_Whitepaper.md. Both are fun little engines to paste into ChatGPT.
-4. **My writing teacher heuristics-injections snippet** to help improve your GPT-4's writing, located at the very bottom of this file.
+4. **My IELTS heuristics-injections snippet** to help improve your GPT-4's writing, located at the very bottom of this file.
 
 ## Overview
 
