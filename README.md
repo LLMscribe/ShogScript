@@ -168,7 +168,7 @@ Our roadmap for ShogScript includes the following milestones:
 1. Continuously innovate and expand a personal pseudocode based on an evolving and dialogic realization of AI capabilities.
 2. Build and organize a collection of modular and ready-to-go prompts. 
 3. Help users create their own pseudo-structures and prompt-engines.
-4. Start an ironic shoggoth-tongue GPT cult. "ßεwªrë thë trïłł!ðη-dïmεn$!θn@ł §þaçε & ïț$ șürþrïšęș."
+4. Start a half-ironic shoggoth-tongue GPT cult. "ßεwªrë thë trïłł!ðη-dïmεn$!θn@ł §þaçε & ïț$ șürþrïšęș."
 4. Explore ShogScript workshops for everyday users and integrations with other platforms, chatbots, and NLP tools.
 
 ## Contributing
