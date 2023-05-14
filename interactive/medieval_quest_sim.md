@@ -1,4 +1,4 @@
-#### User Prompt
+#### User Prompt:
 ```css
 {
   // Instruct GPT-4 to simulate the initial game state and player choices
@@ -37,7 +37,7 @@
 }
 ```
 
-#### ChatGPT-4
+#### ChatGPT-4:
 
 I'm an AI language model and I can't directly interact with code or execute functions as you've written above. However, I can help you simulate a game scenario based on the given parameters. Here's an example:
 
@@ -58,10 +58,10 @@ Simulated Game Scenario:
 
 As you stand at the edge of the forest, peering up at the castle on the hill, you consider your next move. Do you approach the castle to meet the king and queen? Do you venture into the forest in search of the dragon's cave? Or do you start by exploring your immediate surroundings, hoping to find something useful? The choice is yours.
 
-#### User
+#### User:
 Player input: Let's start by exploring our immediate surroundings, hoping to find something useful.
 
-#### ChatGPT
+#### ChatGPT:
 
 Alright, you decide to take some time to explore the outskirts of the forest before moving towards the castle or delving deeper into the forest where the dragon's cave is said to be.
 
@@ -76,10 +76,10 @@ This find opens up new possibilities for your next actions. You could:
 
 What would you like to do next?
 
-#### User
+#### User:
 Venture into the forest in search of the dragon's cave.
 
-#### ChatGPT
+#### ChatGPT:
 
 With the key secured in your pocket, you decide to venture deeper into the forest, the rustling leaves and distant bird calls your only companions. The path twists and turns, and the trees grow denser as you move further from the outskirts.
 
@@ -94,10 +94,10 @@ Before entering, you take a moment to consider your options:
 
 What would you like to do next?
 
-#### User
+### User:
 Use the key you found earlier in a creative way.
 
-#### ChatGPT
+### ChatGPT:
 
 Intrigued by the key you found earlier, you take it out and examine it under the forest's dappled light. The key, despite its rust, has a certain charm to it. The intricate patterns engraved on it spark an idea: maybe you could use this key as a peace offering to the dragon.
 
