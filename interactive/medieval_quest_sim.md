@@ -1,4 +1,5 @@
 ### User Prompt
+```css
 {
   // Instruct GPT-4 to simulate the initial game state and player choices
   GPT4.instruct("simulate_game_state", {"NPCs": ["king", "queen", "dragon"], "locations": ["castle", "forest", "cave"]})
@@ -34,6 +35,7 @@
   // Run the main function
   main()
 }
+```
 
 #### ChatGPT-4
 
