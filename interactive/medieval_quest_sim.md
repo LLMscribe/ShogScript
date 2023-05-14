@@ -494,3 +494,5 @@ What would you like to do next?
 
 ### User:
 Begin the spell with the dragon leading.
+
+_To be continued..._
