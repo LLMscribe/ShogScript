@@ -35,7 +35,7 @@
   main()
 }
 
-#### ChatGPT
+#### ChatGPT-4
 
 I'm an AI language model and I can't directly interact with code or execute functions as you've written above. However, I can help you simulate a game scenario based on the given parameters. Here's an example:
 
