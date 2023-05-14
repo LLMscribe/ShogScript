@@ -1,4 +1,4 @@
-### User Prompt
+#### User Prompt
 ```css
 {
   // Instruct GPT-4 to simulate the initial game state and player choices
@@ -58,7 +58,7 @@ Simulated Game Scenario:
 
 As you stand at the edge of the forest, peering up at the castle on the hill, you consider your next move. Do you approach the castle to meet the king and queen? Do you venture into the forest in search of the dragon's cave? Or do you start by exploring your immediate surroundings, hoping to find something useful? The choice is yours.
 
-### User
+#### User
 Player input: Let's start by exploring our immediate surroundings, hoping to find something useful.
 
 #### ChatGPT
@@ -76,7 +76,7 @@ This find opens up new possibilities for your next actions. You could:
 
 What would you like to do next?
 
-### User
+#### User
 Venture into the forest in search of the dragon's cave.
 
 #### ChatGPT
@@ -94,7 +94,7 @@ Before entering, you take a moment to consider your options:
 
 What would you like to do next?
 
-### User
+#### User
 Use the key you found earlier in a creative way.
 
 #### ChatGPT
@@ -114,7 +114,7 @@ You have a few possible actions now:
 
 What would you like to do next?
 
-### User
+#### User
 Try to talk to the dragon and explain your intentions.
 
 #### ChatGPT
@@ -134,7 +134,7 @@ The dragon's tone suggests that you've managed to pique its interest, which open
 
 What would you like to do next?
 
-### User
+#### User
 Ask the dragon about the key.
 
 #### ChatGPT
@@ -152,7 +152,7 @@ The revelation presents new opportunities for your journey:
 
 What would you like to do next?
 
-### User
+#### User
 Thank the dragon and leave the cave to explore the castle. (And ask the dragon if it wants to join?)
 
 #### ChatGPT
@@ -170,7 +170,7 @@ And so, you exit the cave, the dragon's massive form following behind you. Your 
 
 What would you like to do next?
 
-### User
+#### User
 Ask the dragon more about its history and experiences.
 
 #### ChatGPT
@@ -190,7 +190,7 @@ After the dragon finishes its tales, you find yourself standing before the castl
 
 What would you like to do next?
 
-### User
+#### User
 Use the key to open the secret room in the castle. (How are we going to get into the castle?)
 
 #### ChatGPT
@@ -210,10 +210,10 @@ Your actions now could include:
 
 What would you like to do next?
 
-### User
+#### User
 Ask the dragon about the texts in the room.
 
-### ChatGPT
+#### ChatGPT
 
 As you step into the room, the dragon follows closely behind, its eyes scanning the ancient texts with an air of nostalgia. You gesture towards the shelves, asking, "Do you know what these texts contain?"
 
@@ -228,10 +228,10 @@ The dragon's words fill you with awe. It's not every day one stumbles upon such 
 
 What would you like to do next?
 
-### User
+#### User
 Ask the dragon to explain a specific scroll or spell.
 
-### ChatGPT
+#### ChatGPT
 
 You pick a scroll at random, its parchment yellowed and brittle with age. As you unroll it carefully, you see that it's covered in a script you don't recognize. You turn to the dragon and ask, "Could you help me understand what this says?"
 
@@ -248,10 +248,10 @@ With this new information, you can:
 
 What would you like to do next?
 
-### User
+#### User
 Ask the dragon about another scroll.
 
-### ChatGPT
+#### ChatGPT
 
 With a sense of excitement, you place the first scroll back on its shelf and reach for another. This one is larger, with a heavy wax seal holding it closed. You break the seal and unroll the scroll, revealing more of the unfamiliar script. Turning to the dragon, you ask, "Could you tell me about this one as well?"
 
@@ -266,10 +266,10 @@ The revelation of this ancient treaty opens up new possibilities. You could:
 
 What would you like to do next?
 
-### User
+#### User
 Decide to visit the elves in the forest. (And let's take the ancient spell scroll, the one that allows the user to understand and speak any language for a limited time, with us)
 
-### ChatGPT
+#### ChatGPT
 
 Having discovered the ancient pact between the humans and the elves, you feel compelled to visit the elves in the forest. You carefully roll up the scroll containing the language comprehension spell, deciding that it could be invaluable when meeting the elves, and place it securely in your bag.
 
@@ -286,10 +286,10 @@ Your actions now could be:
 
 What would you like to do next?
 
-### User
+#### User
 Use the spell from the scroll to communicate with the elves.
 
-### ChatGPT
+#### ChatGPT
 
 With a sense of anticipation, you pull out the scroll containing the language comprehension spell. As you read out the incantations under your breath, a shiver runs down your spine. The world around you seems to shimmer slightly, and you feel a strange connection to everything around you.
 
@@ -306,10 +306,10 @@ With the elves' attention now on you, you could:
 
 What would you like to do next?
 
-### User
+#### User
 Offer your assistance to the elves, as per the old treaty.
 
-### ChatGPT
+#### ChatGPT
 
 Respecting the ancient pact you've discovered, you tell the elves, "I've learned of an old treaty, a pact of mutual aid and protection between our races. I stand by that treaty and offer my assistance to you, as it was offered long ago."
 
@@ -324,10 +324,10 @@ With your offer of assistance extended, you now have a few options:
 
 What would you like to do next?
 
-### User
+#### User
 Ask the elves if there is anything immediate that they need help with.
 
-### ChatGPT
+#### ChatGPT
 
 With a nod of respect, you address the elven leader. "Is there any immediate help you need? As a sign of goodwill, I'd be willing to assist with any current issues you may be facing."
 
@@ -342,10 +342,10 @@ This new task presents a unique opportunity:
 
 What would you like to do next?
 
-### User
+#### User
 Ask the elves for more information about the tree and its illness.
 
-### ChatGPT
+#### ChatGPT
 
 Seeking to understand more about the task at hand, you turn to the elves. "Could you tell me more about this tree? What kind of illness has befallen it?"
 
@@ -362,10 +362,10 @@ With this information, you could:
 
 What would you like to do next?
 
-### User
+#### User
 Ask the dragon if it knows any way to cure the tree.
 
-### ChatGPT
+#### ChatGPT
 
 Turning to the dragon, you share the information you've learned from the elves. "Do you know of any way we might be able to help this tree?" you ask. "Your knowledge of ancient magic might be what we need."
 
@@ -380,10 +380,10 @@ With the dragon's suggestion, your options are:
 
 What would you like to do next?
 
-### User
+#### User
 Lead the dragon and the elves to the sacred tree.
 
-### ChatGPT
+#### ChatGPT
 
 With a nod of determination, you decide to lead the dragon and the elves to the sacred tree. The elves guide you through the dense forest, towards the heart of their territory. As you walk, you feel the air grow thicker with magic, an indication of your nearing destination.
 
@@ -398,10 +398,10 @@ With the sacred tree in front of you, you could:
 
 What would you like to do next?
 
-### User
+#### User
 Inspect the tree yourself for any signs of what might be causing the illness.
 
-### ChatGPT
+#### ChatGPT
 
 With a thoughtful frown, you approach the sacred tree. The bark is indeed flaking off, and the leaves are wilting, a stark contrast to the vibrant life you've seen elsewhere in the forest. You run your fingers over the bark, feeling the faint pulse of magic underneath.
 
@@ -416,10 +416,10 @@ You could:
 
 What would you like to do next?
 
-### User
+#### User
 Ask the dragon about the symbol.
 
-### ChatGPT
+#### ChatGPT
 
 Walking back to the dragon, you point out the strange symbol etched into the bark of the tree. "Do you know what this is?" you ask, hoping that the dragon's knowledge of ancient magic might shed some light on the mystery.
 
@@ -434,10 +434,10 @@ Your options now are:
 
 What would you like to do next?
 
-### User
+#### User
 Ask the dragon if it knows how to counteract the draining spell.
 
-### ChatGPT
+#### ChatGPT
 
 With a sense of urgency, you turn to the dragon. "Do you know how to counteract this draining spell?" you ask, hoping that there might be a way to save the tree.
 
@@ -452,10 +452,10 @@ With this information, you could:
 
 What would you like to do next?
 
-### User
+#### User
 Discuss other possible sources of magic that could be used to fuel the counter-spell.
 
-### ChatGPT
+#### ChatGPT
 
 Intrigued by the dragon's suggestion, you ask, "Apart from ourselves, are there other possible sources of magic we could use to fuel this counter-spell?"
 
@@ -470,10 +470,10 @@ With this, you have a few options:
 
 What would you like to do next?
 
-### User
+#### User
 Suggest trying multiple sources of magic to ensure the counter-spell's success.
 
-### ChatGPT
+#### ChatGPT
 
 Considering the precarious state of the sacred tree, you decide it would be best to harness multiple sources of magic to ensure the counter-spell's success. You turn to the elves and the dragon, outlining your plan.
 
@@ -492,5 +492,5 @@ With everyone ready, you prepare to perform the counter-spell:
 
 What would you like to do next?
 
-### User
+#### User
 Begin the spell with the dragon leading.
