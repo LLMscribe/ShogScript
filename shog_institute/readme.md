@@ -1,3 +1,3 @@
-Welcome to the Shog Institute!
+Welcome to Shog Institute, Inc.!
 [_...to be continued..._]
 _
