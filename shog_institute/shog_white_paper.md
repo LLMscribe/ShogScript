@@ -30,4 +30,4 @@ As your friendly, albeit shadowy, guide in this journey, we at Shog Institute, I
 
 _Keywords: AI, Cybernetic Shoggoths, Autonomism, Videodrome, tele-commercial configurations, human nervous system, consciousness, hyperstition, rhizo-sigil prototypes._
 
-[_Generated with GPT-4]
+[_Generated with GPT-4_]
