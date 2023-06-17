@@ -1,6 +1,6 @@
 # ShogScript: Expressive Pseudocode for GPT-4 AI Interactions
 
-ShogScript is a pseudo-language designed to unlock the full potential of the GPT-4 language model for writers. By providing a flexible and engaging way of crafting queries and managing AI interactions, ShogScript enables users to create intricate, detailed, and branching story prompts that push the boundaries of GPT-4's creative output.
+ShogScript is a proof-of-concept pseudo-language designed to unlock the full potential of the GPT-4 language model for writers. By providing a flexible and engaging way of crafting queries and managing AI interactions, ShogScript enables users to create intricate, detailed, and branching story prompts that push the boundaries of GPT-4's creative output.
 
 The language itself is crackpot, unstable, and evolving, but I hope you will find, besides a little inspiration, **four concretely useful takeaways:**
 1. **An idea of the kind of starter/activation/initialization prompts you’ll need** to design in order to consistently jump a fresh GPT-4 into a custom pseudocode session.
@@ -182,7 +182,7 @@ This project is licensed under the MIT License. See [LICENSE](./LICENSE) for mor
 ## TL;DR (Add this to your prompts for better writing)
 If nothing else, please enjoy our little ShogScript IELTS heuristics:
 
-```develop+extend+support(ideas), vocab(wide+natural+sophisticated), grammar(wide+flexible), cohesion(logical+smooth), clarity(precise+concise), engagement(attention+interest), mood(objective+explanatory), viewpoint(forward_looking)```
+```develop+extend+support(ideas), vocab(wide+natural+sophisticated), grammar(wide+flexible), cohesion(logical+smooth), clarity(precise+concise)```
 
 Copy that into any prompt, modify as needed, and you should see some improvement in the quality of GPT-4's writing.
 
